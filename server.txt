@@ -4,6 +4,7 @@
     - LED1: GPIO26
     - LED2: GPIO27
     - LM35: GPIO33
+    by Krai26
 */
 
 #include <WiFi.h>
